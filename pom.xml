@@ -5,6 +5,11 @@
   <artifactId>QedgeApp</artifactId>
   <packaging>jar</packaging>
   <version>1.4</version>
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
+
   <name>QedgeApp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
